@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>Hola about</h1>
+    <div class="notification is-info">
+     <Strong>Pagina Inactiva</Strong>
+    </div>
   </div>
 </template>
